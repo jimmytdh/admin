@@ -169,13 +169,8 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="{{ url('systems') }}" class="nav-link">
+                                    <a href="{{ url('report/systems') }}" class="nav-link">
                                         <span class="icon s7-news-paper"></span><span class="name">Systems</span>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="{{ url('ipuser') }}" class="nav-link">
-                                        <span class="icon s7-monitor"></span><span class="name">IP Address User</span>
                                     </a>
                                 </li>
                             </ul>

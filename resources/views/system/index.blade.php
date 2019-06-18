@@ -5,8 +5,8 @@
 
 @section('body')
     <div class="row email">
-        @include('reports.system_menu')
-        <div class="col-md-9 email-content">
+
+        <div class="col-md-12 email-content">
             <div class="email-inbox-header">
                 <div class="row">
                     <div class="col-md-8">
